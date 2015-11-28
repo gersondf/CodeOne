@@ -1,5 +1,4 @@
-// Jogo da Velha 1.0
-// Lucas Bitencourt Silveira
+
 
 #include<stdlib.h>
 #include<stdio.h>
